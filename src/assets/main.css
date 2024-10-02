@@ -1,0 +1,23 @@
+/* Адаптивність */
+@media (max-width: 768px) {
+  #app {
+    padding: 10px;
+  }
+
+  .weather-block {
+    padding: 10px;
+  }
+
+  .weather-card {
+    padding: 10px;
+  }
+
+  button {
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+
+  input {
+    padding: 8px;
+  }
+}
